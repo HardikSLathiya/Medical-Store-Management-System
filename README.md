@@ -2,8 +2,11 @@
 
 # This Project is Created in PHP 
  Thigs you required
+ 
  1.Apache (php) server
+ 
  2.Mysql server
+ 
  recomded to use xampp
  
  # How to Setup Project
